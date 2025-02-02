@@ -2,7 +2,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="container">
-        <p>&copy; {new Date().getFullYear()} QuizMaster. All rights reserved.</p>
+        <p>QuizMania</p>
       </div>
     </footer>
   )

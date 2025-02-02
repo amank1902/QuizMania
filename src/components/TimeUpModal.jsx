@@ -1,19 +1,3 @@
-// function TimeUpModal({ onClose }) {
-//   return (
-//     <div className="modal-overlay">
-//       <div className="modal-content">
-//         <div className="modal-icon">⏰</div>
-//         <h2>Time's Up!</h2>
-//         <p>Your quiz has been automatically submitted.</p>
-//         <button className="btn btn-primary" onClick={onClose}>
-//           View Results
-//         </button>
-//       </div>
-//     </div>
-//   )
-// }
-
-// export default TimeUpModal
 
 function TimeUpModal({ onClose, isTimeUp }) {
   return (
